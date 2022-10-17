@@ -17,3 +17,25 @@ Este repositorio es un conjunto de los tres equipos de infoBarris:
 - [Equipo de front-end](https://github.com/Bazza6/Frontend_Hackathon_JTD_team_4.git)
 
 El proyecto ha resultado ser un reto de organización grupal, donde cada equipo hemos aprendido cosas del campo en el que trabajabamos. Ha sido una experiencia muy bonita y muy satisfactoria. Para mas información sobre el proyecto, consultado los repositorios de cada grupo del equipo.
+
+# Como usar e installar:
+
+Primero clona el repositorio:
+```
+git clone https://github.com/zpalfi42/Hackathon_JTD_team_4.git
+```
+Muevete a la carpeta de data-science y ejecuta el siguiente comando:
+```
+python  main.py
+```
+Si necesitat instalar alguna libreria:
+```
+pip install PyPDF2 (for PyPDF2 library)
+```
+```
+pip install pandas (for pandas library)
+```
+
+Una vez obtenido el archivo [data.csv] sigue los pasos escritos en el readme de back-end.
+
+Y por ultimo seguir los pasos del repositorio de front-end.
