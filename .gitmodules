@@ -1,3 +1,6 @@
 [submodule "Hackathon_JTD_data"]
 	path = Hackathon_JTD_data
 	url = https://github.com/zpalfi42/Hackathon_JTD_data.git
+[submodule "Frontend_Hackathon_JTD_team_4"]
+	path = Frontend_Hackathon_JTD_team_4
+	url = https://github.com/Bazza6/Frontend_Hackathon_JTD_team_4.git
