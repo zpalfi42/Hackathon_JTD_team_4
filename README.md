@@ -22,7 +22,7 @@ El proyecto ha resultado ser un reto de organización grupal, donde cada equipo 
 
 Primero clona el repositorio:
 ```
-git clone https://github.com/zpalfi42/Hackathon_JTD_team_4.git
+git clone --recurse-submodule https://github.com/zpalfi42/Hackathon_JTD_team_4.git
 ```
 Muevete a la carpeta de data-science y ejecuta el siguiente comando:
 ```
