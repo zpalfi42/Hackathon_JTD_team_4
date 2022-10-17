@@ -4,3 +4,6 @@
 [submodule "Frontend_Hackathon_JTD_team_4"]
 	path = Frontend_Hackathon_JTD_team_4
 	url = https://github.com/Bazza6/Frontend_Hackathon_JTD_team_4.git
+[submodule "hackaton-td-equip4"]
+	path = hackaton-td-equip4
+	url = https://github.com/fbages/hackaton-td-equip4.git
